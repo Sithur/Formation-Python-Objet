@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<dessin>
+	<cercle x="100" y="100" rayon="100"/>
+	<rectangle x="110" y="110" hauteur="250" largeur="300"/>
+	<cercle x="120" y="120" rayon="100"/>
+</dessin>
